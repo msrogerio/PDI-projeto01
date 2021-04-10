@@ -6,3 +6,4 @@ Application of mathematical concepts in the calculation of the functions of sine
 
 Graphical visualization of the behavior of the functions applying displacement, dilation, differential equation and Integral.
 
+https://github.com/msrogerio/PDI-projeto01/wiki
